@@ -7,7 +7,7 @@ Curated list of resources for the Decent Espresso machine.
 
 ## Software
 
-> I want to include here different useful extensions, APIs, alternative UIs and other software hacks
+> I want to include here different useful extensions, APIs, alternative UIs and other software hacks.
 
 ## Mods
 
